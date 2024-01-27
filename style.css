@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+* {
+  background-color: black;
+}
+table {
+  margin: 5% auto;
+  border: 5px solid;
+  border-color: white;
+}
+
+th,
+td {
+  border-collapse: collapse;
+  text-align: left;
+  padding: 5px 40px 5px 2px;
+  background-color: white;
+  font-family: montserrat;
+  border-collapse: collapse;
+}
+
+.color1 {
+  background: #fea500;
+  color: white;
+}
+.color2 {
+  background: #4f4fff;
+  color: white;
+}
+.color3 {
+  background: #16c03b;
+  color: white;
+}
